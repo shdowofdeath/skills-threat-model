@@ -1,0 +1,6 @@
++++ b/src/parser.py
++def parse(line):
++    return line.strip().split(",")
++++ b/README.md
++## Usage
++Run with: python3 parser.py input.csv
